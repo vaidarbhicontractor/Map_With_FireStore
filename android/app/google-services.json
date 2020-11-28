@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328480430735",
+    "firebase_url": "https://mapstoring.firebaseio.com",
+    "project_id": "mapstoring",
+    "storage_bucket": "mapstoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328480430735:android:41bf4a0bcadebad441eefa",
+        "android_client_info": {
+          "package_name": "com.example.maplocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328480430735-2b9tqmataei2kncigop5r1p2o3b7pucl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0sHlm45uQKnhjpPJudziBO8PgYcyQoYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328480430735-2b9tqmataei2kncigop5r1p2o3b7pucl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
